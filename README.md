@@ -59,6 +59,10 @@ node bot.js
 
 > **Catatan:** Anda dapat mengedit file `persona.txt` untuk menyesuaikan karakter bot (opsional).
 
+#### Langkah 5: Cara Mendapatkan ApiKey
+
+> **Cara Mendapatkan ApiKey** Kunjungi Halaman Ini https://aistudio.google.com/app/apikey
+
 ## Cara Penggunaan
 
 Setelah bot aktif, Anda dapat menggunakan perintah berikut di Telegram:
