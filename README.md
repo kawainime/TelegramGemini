@@ -6,6 +6,17 @@ Bot Telegram yang menggunakan Google Gemini API untuk menjawab pertanyaan dan me
 
 ## Instalasi dan Penggunaan
 
+### Instalasi di FireBase
+
+#### Langkah 1: Clone Repository
+
+```bash
+git clone https://github.com/kawainime/TelegramGemini.git
+cd TelegramGemini
+npm install
+node bot.js
+```
+
 ### Instalasi di Local/VPS
 
 #### Langkah 1: Clone Repository
