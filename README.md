@@ -12,7 +12,7 @@ Bot Telegram yang menggunakan Google Gemini API untuk menjawab pertanyaan dan me
 
 ```bash
 git clone https://github.com/kawainime/TelegramGemini.git
-cd TelegramGemini.git
+cd TelegramGemini
 ```
 
 #### Langkah 2: Konfigurasi `.env`
